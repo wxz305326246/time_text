@@ -13,6 +13,7 @@ public class test {
 			public void run() {
 				// TODO Auto-generated method stub
 				System.out.println("执行定时任务"+num);
+				System.out.println("有付出,就有收货,加油!!!");
 				num++;
 			}
 		};
